@@ -3,8 +3,6 @@
 
 A cross-platform CLI tool to scan for 'messy' code and suggest refactors based on a style guide. This tool is designed to help developers maintain a clean and consistent codebase.
 
-![Auto-Refactor in action](https://i.imgur.com/YOUR_GIF_HERE.gif)
-*(To make a GIF like this, you can use a free tool like [ScreenToGif](https://www.screentogif.com/) or [Giphy Capture](https://giphy.com/apps/giphycapture))*
 
 ## Features
 
